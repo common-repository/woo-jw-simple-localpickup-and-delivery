@@ -1,0 +1,11 @@
+.jw_lpd_admin_form .row {
+    display: block;
+}
+
+.jw_lpd_admin_form .row .jw_simple_pickup_locations {
+    float: left;
+}
+
+.jw_lpd_admin_form .row .jw_simple_pickup_locations_time_slot {
+    float: right;
+}
